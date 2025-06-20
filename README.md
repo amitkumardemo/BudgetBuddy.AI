@@ -31,7 +31,3 @@ BudgetBuddy.AI helps you take control of your finances with smart expense tracki
 - **Deployment**: Vercel
 - **Language**: JavaScript
 
----
-
-## 📁 Folder 
-
