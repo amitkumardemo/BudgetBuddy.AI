@@ -1,5 +1,7 @@
 # 💰 BudgetBuddy.AI
 
+⚠️ **Warning**: This is a **personal project** developed for learning and demonstration purposes only. Not intended for production financial use. Use at your own discretion.
+
 **Your AI-powered financial assistant.**  
 BudgetBuddy.AI helps you take control of your finances with smart expense tracking, receipt scanning, intelligent budgeting, and real-time analytics — all in one powerful, AI-integrated platform.
 
