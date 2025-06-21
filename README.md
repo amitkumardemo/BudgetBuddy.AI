@@ -5,6 +5,9 @@
 **Your AI-powered financial assistant.**  
 BudgetBuddy.AI helps you take control of your finances with smart expense tracking, receipt scanning, intelligent budgeting, and real-time analytics — all in one powerful, AI-integrated platform.
 
+
+![EdgeCareer Banner](https://github.com/amitkumardemo/EdgeCareer/blob/main/EdgeCareers.png)
+
 ## 🚀 Live Demo
 🌐 [Visit BudgetBuddy.AI](https://budget-buddy-ai-kappa.vercel.app)
 
