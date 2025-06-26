@@ -8,7 +8,7 @@ BudgetBuddy.AI helps you take control of your finances with smart expense tracki
 ## ER MODEL DIAGRAM OF BUDGETBUDDY.AI
 
 
-![EdgeCareer Banner](https://github.com/amitkumardemo/BudgetBuddy.AI/blob/master/er.png)
+![Budget Buddy ER Model Diagram](https://github.com/amitkumardemo/BudgetBuddy.AI/blob/master/er.png)
 
 ## 🚀 Live Demo
 🌐 [Visit BudgetBuddy.AI](https://budget-buddy-ai-kappa.vercel.app)
@@ -45,3 +45,9 @@ BudgetBuddy.AI helps you take control of your finances with smart expense tracki
 ## Monthly Report of your Budget Report 1st
 
 ![Monthly Budget Mail](https://github.com/amitkumardemo/BudgetBuddy.AI/blob/master/report%201.png)
+
+---
+
+## Monthly Report of your Budget Report 2nd
+
+![Monthly Budget Mail](https://github.com/amitkumardemo/BudgetBuddy.AI/blob/master/report%202.png)
