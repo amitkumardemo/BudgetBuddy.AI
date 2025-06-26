@@ -41,3 +41,7 @@ BudgetBuddy.AI helps you take control of your finances with smart expense tracki
 
 ![Budget Alert Mail](https://github.com/amitkumardemo/BudgetBuddy.AI/blob/master/Alert.png)
 
+---
+## Monthly Report of your Budget Report 1st
+
+![Monthly Budget Mail](https://github.com/amitkumardemo/BudgetBuddy.AI/blob/master/report%201.png)
