@@ -36,3 +36,8 @@ BudgetBuddy.AI helps you take control of your finances with smart expense tracki
 - **Deployment**: Vercel
 - **Language**: JavaScript
 
+---
+## Budget Alert Mail 
+
+![Budget Alert Mail](https://github.com/amitkumardemo/BudgetBuddy.AI/blob/master/Alert.png)
+
